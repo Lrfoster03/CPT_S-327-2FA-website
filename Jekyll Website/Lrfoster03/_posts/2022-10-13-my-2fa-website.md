@@ -2,6 +2,7 @@
 layout: post
 title:  "My 2FA Project"
 date:   2022-10-13 00:00:33 -0700
+author: "Logan Foster"
 categories: my-2fa-project
 permalink: /:categories
 ---

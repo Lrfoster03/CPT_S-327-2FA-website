@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Time at Bechtel"
+title:  "My Bechtel Internship"
 date:   2022-08-13 00:00:33 -0700
 categories: bechtel-intern
 permalink: /:categories

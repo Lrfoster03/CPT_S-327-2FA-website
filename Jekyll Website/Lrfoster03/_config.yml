@@ -30,8 +30,8 @@ github_username:  Lrfoster03
 linkedin_username: Logan-r-Foster
 
 # Build settings
-# theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+# theme: minima
 plugins:
   - jekyll-feed
 
